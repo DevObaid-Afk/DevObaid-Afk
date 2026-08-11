@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DevObaid-afk">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=%F0%9F%91%8B%20Hey%2C%20I'm%20Obaid%20%E2%80%94%20Backend%20Developer" alt="👋 Hey, I&#39;m Obaid — Backend Developer" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=%F0%9F%91%8B%20Hey%2C%20I'm%20Obaid%20%E2%80%94%20Backend%20Developer" alt="👋 Hey, I&#39;m Obaid — Backend Dev" />
   </a>
 </p>
 
